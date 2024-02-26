@@ -12,6 +12,6 @@ pnpm run dev
 
 ```sh
 cd backend-golang
-go mod tidy
+go mod download
 go run main.go utils.go
 ```
